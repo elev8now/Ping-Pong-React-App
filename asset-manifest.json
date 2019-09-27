@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/ping-pong/static/css/main.f35d2220.chunk.css",
+    "main.js": "/ping-pong/static/js/main.99e2eb12.chunk.js",
+    "main.js.map": "/ping-pong/static/js/main.99e2eb12.chunk.js.map",
+    "runtime-main.js": "/ping-pong/static/js/runtime-main.38245283.js",
+    "runtime-main.js.map": "/ping-pong/static/js/runtime-main.38245283.js.map",
+    "static/js/2.580a0e73.chunk.js": "/ping-pong/static/js/2.580a0e73.chunk.js",
+    "static/js/2.580a0e73.chunk.js.map": "/ping-pong/static/js/2.580a0e73.chunk.js.map",
+    "index.html": "/ping-pong/index.html",
+    "precache-manifest.921b6d16c317bd06490a91b74212ba5e.js": "/ping-pong/precache-manifest.921b6d16c317bd06490a91b74212ba5e.js",
+    "service-worker.js": "/ping-pong/service-worker.js",
+    "static/css/main.f35d2220.chunk.css.map": "/ping-pong/static/css/main.f35d2220.chunk.css.map",
+    "static/media/flow-2.jpg": "/ping-pong/static/media/flow-2.c75ef5c0.jpg",
+    "static/media/ping-pong-table.png": "/ping-pong/static/media/ping-pong-table.27698f87.png"
+  }
+}
