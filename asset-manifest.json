@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/ping-pong/static/css/main.f35d2220.chunk.css",
-    "main.js": "/ping-pong/static/js/main.99e2eb12.chunk.js",
-    "main.js.map": "/ping-pong/static/js/main.99e2eb12.chunk.js.map",
-    "runtime-main.js": "/ping-pong/static/js/runtime-main.38245283.js",
-    "runtime-main.js.map": "/ping-pong/static/js/runtime-main.38245283.js.map",
-    "static/js/2.580a0e73.chunk.js": "/ping-pong/static/js/2.580a0e73.chunk.js",
-    "static/js/2.580a0e73.chunk.js.map": "/ping-pong/static/js/2.580a0e73.chunk.js.map",
-    "index.html": "/ping-pong/index.html",
-    "precache-manifest.921b6d16c317bd06490a91b74212ba5e.js": "/ping-pong/precache-manifest.921b6d16c317bd06490a91b74212ba5e.js",
-    "service-worker.js": "/ping-pong/service-worker.js",
-    "static/css/main.f35d2220.chunk.css.map": "/ping-pong/static/css/main.f35d2220.chunk.css.map",
-    "static/media/flow-2.jpg": "/ping-pong/static/media/flow-2.c75ef5c0.jpg",
-    "static/media/ping-pong-table.png": "/ping-pong/static/media/ping-pong-table.27698f87.png"
+    "main.css": "/Ping-Pong-React-App/static/css/main.f35d2220.chunk.css",
+    "main.js": "/Ping-Pong-React-App/static/js/main.99e2eb12.chunk.js",
+    "main.js.map": "/Ping-Pong-React-App/static/js/main.99e2eb12.chunk.js.map",
+    "runtime-main.js": "/Ping-Pong-React-App/static/js/runtime-main.b7ba8dc2.js",
+    "runtime-main.js.map": "/Ping-Pong-React-App/static/js/runtime-main.b7ba8dc2.js.map",
+    "static/js/2.580a0e73.chunk.js": "/Ping-Pong-React-App/static/js/2.580a0e73.chunk.js",
+    "static/js/2.580a0e73.chunk.js.map": "/Ping-Pong-React-App/static/js/2.580a0e73.chunk.js.map",
+    "index.html": "/Ping-Pong-React-App/index.html",
+    "precache-manifest.73526538ef677bb7269bd3459ac6c27a.js": "/Ping-Pong-React-App/precache-manifest.73526538ef677bb7269bd3459ac6c27a.js",
+    "service-worker.js": "/Ping-Pong-React-App/service-worker.js",
+    "static/css/main.f35d2220.chunk.css.map": "/Ping-Pong-React-App/static/css/main.f35d2220.chunk.css.map",
+    "static/media/flow-2.jpg": "/Ping-Pong-React-App/static/media/flow-2.c75ef5c0.jpg",
+    "static/media/ping-pong-table.png": "/Ping-Pong-React-App/static/media/ping-pong-table.27698f87.png"
   }
 }
