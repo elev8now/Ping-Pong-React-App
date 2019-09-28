@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Ping-Pong-React-App/static/css/main.fba8ed93.chunk.css",
-    "main.js": "/Ping-Pong-React-App/static/js/main.ba06f04b.chunk.js",
-    "main.js.map": "/Ping-Pong-React-App/static/js/main.ba06f04b.chunk.js.map",
+    "main.css": "/Ping-Pong-React-App/static/css/main.e0286d7a.chunk.css",
+    "main.js": "/Ping-Pong-React-App/static/js/main.ea781ad1.chunk.js",
+    "main.js.map": "/Ping-Pong-React-App/static/js/main.ea781ad1.chunk.js.map",
     "runtime-main.js": "/Ping-Pong-React-App/static/js/runtime-main.b7ba8dc2.js",
     "runtime-main.js.map": "/Ping-Pong-React-App/static/js/runtime-main.b7ba8dc2.js.map",
     "static/js/2.4741aecd.chunk.js": "/Ping-Pong-React-App/static/js/2.4741aecd.chunk.js",
     "static/js/2.4741aecd.chunk.js.map": "/Ping-Pong-React-App/static/js/2.4741aecd.chunk.js.map",
     "index.html": "/Ping-Pong-React-App/index.html",
-    "precache-manifest.57f4fa4a66ed6245a6d369d0766e32c0.js": "/Ping-Pong-React-App/precache-manifest.57f4fa4a66ed6245a6d369d0766e32c0.js",
+    "precache-manifest.dc0ae1e968d7de6facfcea08b28bd640.js": "/Ping-Pong-React-App/precache-manifest.dc0ae1e968d7de6facfcea08b28bd640.js",
     "service-worker.js": "/Ping-Pong-React-App/service-worker.js",
-    "static/css/main.fba8ed93.chunk.css.map": "/Ping-Pong-React-App/static/css/main.fba8ed93.chunk.css.map",
+    "static/css/main.e0286d7a.chunk.css.map": "/Ping-Pong-React-App/static/css/main.e0286d7a.chunk.css.map",
     "static/media/header.jpg": "/Ping-Pong-React-App/static/media/header.0cff5dd9.jpg",
     "static/media/ping-pong-table.png": "/Ping-Pong-React-App/static/media/ping-pong-table.447178eb.png"
   }
