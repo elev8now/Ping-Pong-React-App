@@ -1,18 +1,18 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5d1db705e22515fa9bdeb285fbe019cd",
+    "revision": "638ac2f84503cdfaafc5a09d69889354",
     "url": "/Ping-Pong-React-App/index.html"
   },
   {
-    "revision": "f7042eb5f116bb79a6e6",
-    "url": "/Ping-Pong-React-App/static/css/main.f35d2220.chunk.css"
+    "revision": "cfd8987c291061f7055c",
+    "url": "/Ping-Pong-React-App/static/css/main.52d1a4a4.chunk.css"
   },
   {
     "revision": "3e67cbcc21a858af908e",
     "url": "/Ping-Pong-React-App/static/js/2.580a0e73.chunk.js"
   },
   {
-    "revision": "f7042eb5f116bb79a6e6",
+    "revision": "cfd8987c291061f7055c",
     "url": "/Ping-Pong-React-App/static/js/main.99e2eb12.chunk.js"
   },
   {
