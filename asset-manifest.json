@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/Ping-Pong-React-App/static/css/main.396ce256.chunk.css",
-    "main.js": "/Ping-Pong-React-App/static/js/main.216e7652.chunk.js",
-    "main.js.map": "/Ping-Pong-React-App/static/js/main.216e7652.chunk.js.map",
+    "main.css": "/Ping-Pong-React-App/static/css/main.fba8ed93.chunk.css",
+    "main.js": "/Ping-Pong-React-App/static/js/main.ba06f04b.chunk.js",
+    "main.js.map": "/Ping-Pong-React-App/static/js/main.ba06f04b.chunk.js.map",
     "runtime-main.js": "/Ping-Pong-React-App/static/js/runtime-main.b7ba8dc2.js",
     "runtime-main.js.map": "/Ping-Pong-React-App/static/js/runtime-main.b7ba8dc2.js.map",
-    "static/js/2.580a0e73.chunk.js": "/Ping-Pong-React-App/static/js/2.580a0e73.chunk.js",
-    "static/js/2.580a0e73.chunk.js.map": "/Ping-Pong-React-App/static/js/2.580a0e73.chunk.js.map",
+    "static/js/2.4741aecd.chunk.js": "/Ping-Pong-React-App/static/js/2.4741aecd.chunk.js",
+    "static/js/2.4741aecd.chunk.js.map": "/Ping-Pong-React-App/static/js/2.4741aecd.chunk.js.map",
     "index.html": "/Ping-Pong-React-App/index.html",
-    "precache-manifest.9255656a2474aafb6127a309a5eb4d94.js": "/Ping-Pong-React-App/precache-manifest.9255656a2474aafb6127a309a5eb4d94.js",
+    "precache-manifest.57f4fa4a66ed6245a6d369d0766e32c0.js": "/Ping-Pong-React-App/precache-manifest.57f4fa4a66ed6245a6d369d0766e32c0.js",
     "service-worker.js": "/Ping-Pong-React-App/service-worker.js",
-    "static/css/main.396ce256.chunk.css.map": "/Ping-Pong-React-App/static/css/main.396ce256.chunk.css.map",
-    "static/media/flow-2.jpg": "/Ping-Pong-React-App/static/media/flow-2.c75ef5c0.jpg",
-    "static/media/ping-pong-table.png": "/Ping-Pong-React-App/static/media/ping-pong-table.27698f87.png"
+    "static/css/main.fba8ed93.chunk.css.map": "/Ping-Pong-React-App/static/css/main.fba8ed93.chunk.css.map",
+    "static/media/header.jpg": "/Ping-Pong-React-App/static/media/header.0cff5dd9.jpg",
+    "static/media/ping-pong-table.png": "/Ping-Pong-React-App/static/media/ping-pong-table.447178eb.png"
   }
 }
