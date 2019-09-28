@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/Ping-Pong-React-App/static/css/main.e0286d7a.chunk.css",
-    "main.js": "/Ping-Pong-React-App/static/js/main.ea781ad1.chunk.js",
-    "main.js.map": "/Ping-Pong-React-App/static/js/main.ea781ad1.chunk.js.map",
-    "runtime-main.js": "/Ping-Pong-React-App/static/js/runtime-main.b7ba8dc2.js",
-    "runtime-main.js.map": "/Ping-Pong-React-App/static/js/runtime-main.b7ba8dc2.js.map",
-    "static/js/2.4741aecd.chunk.js": "/Ping-Pong-React-App/static/js/2.4741aecd.chunk.js",
-    "static/js/2.4741aecd.chunk.js.map": "/Ping-Pong-React-App/static/js/2.4741aecd.chunk.js.map",
-    "index.html": "/Ping-Pong-React-App/index.html",
-    "precache-manifest.dc0ae1e968d7de6facfcea08b28bd640.js": "/Ping-Pong-React-App/precache-manifest.dc0ae1e968d7de6facfcea08b28bd640.js",
-    "service-worker.js": "/Ping-Pong-React-App/service-worker.js",
-    "static/css/main.e0286d7a.chunk.css.map": "/Ping-Pong-React-App/static/css/main.e0286d7a.chunk.css.map",
-    "static/media/header.jpg": "/Ping-Pong-React-App/static/media/header.0cff5dd9.jpg",
-    "static/media/ping-pong-table.png": "/Ping-Pong-React-App/static/media/ping-pong-table.447178eb.png"
+    "main.css": "/static/css/main.f30cb0ba.chunk.css",
+    "main.js": "/static/js/main.6cfcb532.chunk.js",
+    "main.js.map": "/static/js/main.6cfcb532.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.07e05196.js",
+    "runtime-main.js.map": "/static/js/runtime-main.07e05196.js.map",
+    "static/js/2.d4b4af78.chunk.js": "/static/js/2.d4b4af78.chunk.js",
+    "static/js/2.d4b4af78.chunk.js.map": "/static/js/2.d4b4af78.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.18bc2cd76ab0072485ec35dc19731b98.js": "/precache-manifest.18bc2cd76ab0072485ec35dc19731b98.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.f30cb0ba.chunk.css.map": "/static/css/main.f30cb0ba.chunk.css.map",
+    "static/media/header.jpg": "/static/media/header.0cff5dd9.jpg",
+    "static/media/ping-pong-table.png": "/static/media/ping-pong-table.447178eb.png"
   }
 }
